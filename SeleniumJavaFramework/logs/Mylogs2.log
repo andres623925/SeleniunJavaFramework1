@@ -1,0 +1,16 @@
+[INFO ] 2020-04-10 21:22:35.563 [main] GoogleSearchPageTestNGDemo3 - ------ INICIA TEST ---------
+[INFO ] 2020-04-10 21:22:35.567 [main] GoogleSearchPageTestNGDemo3 - Settea el projectPath: C:\Andres\WorkSpace\SeleniumJavaFramework
+[INFO ] 2020-04-10 21:22:35.567 [main] GoogleSearchPageTestNGDemo3 - Settea el google chrome driver: C:\Andres\WorkSpace\SeleniumJavaFramework\drivers\chromedriver\chromedriver_79.exe
+[DEBUG] 2020-04-10 21:22:41.713 [main] GoogleSearchPageTestNGDemo3 - Crea el pageObject de la pagina
+[INFO ] 2020-04-10 21:22:42.773 [main] GoogleSearchPageTestNGDemo3 - va a la pagina: https://www.google.com
+[INFO ] 2020-04-10 21:22:42.773 [main] GoogleSearchPageTestNGDemo3 - Va a introducir la palabra a buscar
+[INFO ] 2020-04-10 21:22:42.773 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 21:22:49.598 [main] GoogleSearchPageTestNGDemo3 - ----- Fin de la Ejecucion ------
+[INFO ] 2020-04-10 23:02:11.029 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:04:21.526 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:12:47.337 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:15:12.656 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:15:55.563 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:17:37.651 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:19:23.502 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
+[INFO ] 2020-04-10 23:19:52.634 [main] GoogleSearchPageObjects -  ---- busca en la pagina el elemento: q y textea: A B C D ---- 
